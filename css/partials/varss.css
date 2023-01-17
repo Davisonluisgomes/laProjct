@@ -1,0 +1,10 @@
+:root {
+--text-color: #485e48;
+    --gradient--color: linear-gradient(90deg, #0e2aa5 0%, #32dbf1 100%);
+    --roboto:'Roboto','cursive';
+    --title: #141313;
+    --box-shadow--: 0px 10px 30px rgba(75, 22, 247, 0.3);
+    --grid-color--: #c4c4c4;
+    --grid: #307d83;
+    
+}

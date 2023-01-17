@@ -1,0 +1,61 @@
+
+@media only screen and (min-width:340px){
+    .header-nav .main-menu .navbar,
+    .header-nav .main-menu .navbar-brand,
+    .site-main .services-area{
+    padding: 2%;
+    margin: 0%;
+    }
+
+@media only screen and (max-width:340px){
+.header-nav .main-menu .navbar,
+.header-nav .main-menu .navbar-brand,
+.site-main .services-area{
+padding: 2%;
+margin: 0%;
+}
+.site-main .site-banner .site-title h1{
+
+    font-size: 41px;
+    
+}.site.main .services-area .services{
+
+    width: 13rem;
+}}
+
+
+@media only screen and (max-width:790px){
+    
+    .site-main .about-area .about-title h2 > span{
+
+        font-size: 31px;
+        letter-spacing: 10px;
+
+    }
+.site-main .brand-area .exprience-area .years-area{
+    padding-left:1%;
+    width: 41%;
+}
+.site-main .brand-area .exprience-area .call-area{
+    padding-left: 3%;
+}
+.site-main .about-area .about-title p{
+    padding: 0%;
+}
+}
+@media only screen and (max-width:1910px){
+   
+    .header-area .main.menu .navbar{
+        padding: 1rem;
+    }
+    .container{
+        max-width: 90%;
+    }
+    .site-main .brand-area,
+    .site-main .services-area .services-title,
+    .site-main .about-area{
+        padding: 3% 4%;
+
+    }
+
+}
